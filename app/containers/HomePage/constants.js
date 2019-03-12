@@ -1,0 +1,2 @@
+export const REQUEST_API = 'REQUEST_API';
+export const RECIEVED_RESPONSE = 'RECIEVED_RESPONSE';

@@ -1,0 +1,7 @@
+{
+  "api": {
+    "baseurl": "https://myapp.com",
+    "base": "https://myapp.com/api/v1",
+    "apiUrl": "/apiurl.json"
+  }
+}

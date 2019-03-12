@@ -1,0 +1,6 @@
+node_modules
+.vscode
+build/
+stats.json
+app/.DS_Store
+.DS_Store
